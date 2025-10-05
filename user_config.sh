@@ -3,11 +3,11 @@
 UBUNTU_VERSION=22.04
 
 #内核源码
-KERNEL_SOURCE=https://github.com/ztemt/NX595J-Z17S-_N_kernel
+KERNEL_SOURCE=https://gitlab.com/xiayesuifeng/android_kernel_nubia_msm8998
 #分支
-KERNEL_BRANCH=master
+KERNEL_BRANCH=msm-4.4-ten
 #内核配置文件
-KERNEL_CONFIG=msmcortex-perf-NX595J_defconfig
+KERNEL_CONFIG=xiayesuifeng_nx595j_defconfig
 #架构
 ARCH=arm64
 
